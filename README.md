@@ -5,7 +5,7 @@
 
 ## PPO
 
-[Proximal policy optimization algorithms](https://arxiv.org/abs/1707.06347]
+[Proximal policy optimization algorithms](https://arxiv.org/abs/1707.06347)
 
 ### The results of Classic control
 
