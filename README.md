@@ -10,9 +10,9 @@
 
 ### The result of Pendulum-v0
 
-<img src="https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png" width="500" alt="Pendulum-v0" align=center>
+<img src="https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png" width="600"  alt="Pendulum-v0" align=center>
 
-![](https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png width="500" alt="Pendulum-v0" align=center)
+<div align=center>![Pendulum-v0](https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png)
 
 ### The result of CartPole-v1
 
