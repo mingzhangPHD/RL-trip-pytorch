@@ -10,7 +10,7 @@
 
 ### The result of Pendulum-v0
 
-![](https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png)
+![](https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png width="500" alt="Pendulum-v0" align=center)
 
 ### The result of CartPole-v1
 
