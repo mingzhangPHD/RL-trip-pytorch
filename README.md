@@ -10,7 +10,7 @@
 
 ### The result of Pendulum-v0
 
-<img src="https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png" width="600"  height = "400"alt="Pendulum-v0" div align=center>
+<img src="https://github.com/mingzhangPHD/RL-trip-pytorch/blob/master/images/The%20result%20of%20Pendulum-v0.png" width="600" height = "400" alt="Pendulum-v0" div align=center>
 
 ---
 
