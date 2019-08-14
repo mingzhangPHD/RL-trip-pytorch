@@ -1,6 +1,6 @@
 # RL-trip-pytorch
 
-##Contact
+## Contact
 
 If you have any problem about our code, feel free to contact:
 
